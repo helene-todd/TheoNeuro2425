@@ -1,0 +1,19 @@
+### ORGANISATION ###
+- Before each tutorial session: the next exercise sheet will be uploaded so that you can prepare the questions in advance. A notebook will also accompany most of the tutorials so that you can learn how to numerically implement (and get a better understanding of) the models studied during class.
+- After each tutorial session: a detailed solution sheet of the exercises studied during the tutorial will be uploaded.
+
+
+### CONCEPTS STUDIED DURING THE TUTORIALS ###
+- How to model neurons (deriving equations from experimental observations, pros and cons of each model, different scales that can be considered etc).
+- Linear and nonlinear ODEs (solving linear ODEs, studying nonlinear ODEs without computing the explicit solution, a little perturbation theory).
+- Stochastic processes (stochastic LIF, Wiener process and Poisson process, computing mean and variance).
+
+
+### RESSOURCES ###
+- Dynamical systems in neuroscience, E Izhikevich .
+
+- Course notes on ODEs (to go further, well beyond what will be required for the tutorials): https://perso.lpsm.paris/~boutillier/teaching/2m110/2m310_poly.pdf
+
+
+### FEEDBACK ###
+Do not hesitate to give me feedback on the tutorial sessions (organisation, pace, etc).
