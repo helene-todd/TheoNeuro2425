@@ -6,8 +6,7 @@
 
 :information_source: [General public information](https://docs.google.com/document/d/1MEB7kviFjan9nhk0f8ry2s5WhUMWbge2Gx3ePXk1gmU/edit?usp=sharing.)  
 
-**TD assistant**  
-Hélène Todd  
+**TD assistant**: Hélène Todd  
 📧 helene.todd@ens.psl.eu  
 
 :warning: **PROCEDURE TO ACCESS THE MOODLE** 
