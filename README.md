@@ -6,13 +6,13 @@
 
 :information_source: [General public information](https://docs.google.com/document/d/1MEB7kviFjan9nhk0f8ry2s5WhUMWbge2Gx3ePXk1gmU/edit?usp=sharing.)
 
-**TD assistant** Hélène Todd
-helene.todd@ens.psl.eu
+**TD assistant** Hélène Todd \
+📧 helene.todd@ens.psl.eu
 
 :warning: **PROCEDURE TO ACCESS THE MOODLE** 
-To get access to the moodle of the course - if this is not yet the case -: \
-&#9312; Connect with your institutional email address to https://moodle.u-paris.fr/ \
-&#9313; Send an email to the course organisers in order get the access code.
+To get access to the moodle of the course (if this is not yet the case) : \
+1- Connect with your institutional email address to https://moodle.u-paris.fr/ \
+2- Send an email to the course organisers in order get the access code.
 
 
 :warning: **SHEET FOR GROUPS COMPOSITION (FINAL ARTICLE PRESENTATION)** 
