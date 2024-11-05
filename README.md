@@ -23,7 +23,6 @@ To get access to the moodle of the course (if this is not yet the case) :
 :warning: **SHEET FOR GROUPS COMPOSITION (FINAL ARTICLE PRESENTATION)**  
 [List your three favourite articles here](https://docs.google.com/document/d/1XtBed08BZJs7DMk5_5KFbVox2VoYX7ukuLFMWZRpls8/edit?usp=sharing)  
 
-<br>
 
 ## Programm
 
