@@ -10,8 +10,8 @@
 📧 helene.todd@ens.psl.eu 
 
 :warning: **PROCEDURE TO ACCESS THE MOODLE** 
-To get access to the moodle of the course (if this is not yet the case) : \
-1- Connect with your institutional email address to https://moodle.u-paris.fr/ 
+To get access to the moodle of the course (if this is not yet the case) :  
+1- Connect with your institutional email address to https://moodle.u-paris.fr/  
 2- Send an email to the course organisers in order get the access code. <br>
 
 
