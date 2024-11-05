@@ -1,22 +1,23 @@
 # Theoretical Neuroscience TDs
 
-*Master in Cognitive Sciences (Cogmaster), ENS, 2024-2025.*  <br>
+*Master in Cognitive Sciences (Cogmaster), ENS, 2024-2025.*   
 
 ## Practical information 
 
-:information_source: [General public information](https://docs.google.com/document/d/1MEB7kviFjan9nhk0f8ry2s5WhUMWbge2Gx3ePXk1gmU/edit?usp=sharing.) <br>
+:information_source: [General public information](https://docs.google.com/document/d/1MEB7kviFjan9nhk0f8ry2s5WhUMWbge2Gx3ePXk1gmU/edit?usp=sharing.)  
 
-**TD assistant** Hélène Todd \
-📧 helene.todd@ens.psl.eu 
+**TD assistant**  
+Hélène Todd  
+📧 helene.todd@ens.psl.eu  
 
 :warning: **PROCEDURE TO ACCESS THE MOODLE** 
 To get access to the moodle of the course (if this is not yet the case) :  
 1- Connect with your institutional email address to https://moodle.u-paris.fr/  
-2- Send an email to the course organisers in order get the access code. <br>
+2- Send an email to the course organisers in order get the access code.  
 
 
 :warning: **SHEET FOR GROUPS COMPOSITION (FINAL ARTICLE PRESENTATION)** 
-[List your three favourite articles here](https://docs.google.com/document/d/1XtBed08BZJs7DMk5_5KFbVox2VoYX7ukuLFMWZRpls8/edit?usp=sharing)  <br>
+[List your three favourite articles here](https://docs.google.com/document/d/1XtBed08BZJs7DMk5_5KFbVox2VoYX7ukuLFMWZRpls8/edit?usp=sharing)  
 
 
 ## Programm
