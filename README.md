@@ -2,8 +2,6 @@
 
 *Master in Cognitive Sciences (Cogmaster), ENS, 2024-2025.*   
 
-<br>
-
 ## Practical information 
 
 :information_source: [General public information](https://docs.google.com/document/d/1MEB7kviFjan9nhk0f8ry2s5WhUMWbge2Gx3ePXk1gmU/edit?usp=sharing.)  
