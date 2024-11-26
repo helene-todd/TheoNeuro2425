@@ -36,3 +36,4 @@ To get access to the moodle of the course (if this is not yet the case) :
 | 17-10-24 | TD5 | Synapses & Dendrites | Short term plasticity (STD & STP), Tsodyks & Markram model, long term plasticity (STDP), spike train model. |
 | 24-10-24 | TD6 | Supervised Learning | Perceptron model & algorithm, linear algebra, upper & lower bounds. |
 | 14-11-24 | TD7 | Unsupervised Learning | Hebbian learning, covariance & correlation, linear algebra (vectors, scalar product, change of basis). |
+| 21-11-24 | TD8 | Reinforcement Learning | Reinforcement learning paradigm, temporal difference algorithm, exploration-exploitation dilemma, applications to maze learning task. |
